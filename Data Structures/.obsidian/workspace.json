@@ -4,61 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "df6232fc9de4301a",
+        "id": "d0ddc2350ceb3fe9",
         "type": "tabs",
         "children": [
           {
-            "id": "4e06ccc3ee2f0a76",
+            "id": "fb96588f1c3d8baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Arrays & Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Arrays & Linked List"
             }
           },
           {
-            "id": "3ee30ab50d88a86b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arrays"
-            }
-          },
-          {
-            "id": "a479a893b7fd918a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arrays"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "b8659f41381d2298",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f89a79934afa073b",
+            "id": "50ba345ba66c41fd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -67,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -98,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:🏷️{type}",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arrays & Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Arrays & Linked List"
             }
           },
           {
@@ -157,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arrays & Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Arrays & Linked List"
             }
           },
           {
@@ -182,9 +149,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Arrays & Linked List.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Arrays & Linked List"
             }
           }
         ]
@@ -204,11 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f89a79934afa073b",
+  "active": "fb96588f1c3d8baf",
   "lastOpenFiles": [
-    "Arrays.md",
+    "Arrays & Linked List.md",
+    "Templates/Data Structure Template.md",
+    "Pointer.md",
     "Arrays examples.md",
-    "Untitled 1.md",
-    "Welcome.md"
+    "Templates.md",
+    "Templates",
+    "2024-11-29.md",
+    "Untitled.canvas",
+    "Welcome.md",
+    "Untitled 1.md"
   ]
 }
