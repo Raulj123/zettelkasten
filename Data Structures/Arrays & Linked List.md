@@ -4,16 +4,16 @@ tags:
   - 🏷️Array-linked-list
 date: 2024-11-29T17:39
 ---
-
+# Array
 [1,3,4,5] or [9, "hi", false]
 * Ordered collection of data
 * Find an element based on index
 * Stored in contiguous memory(each element is next to one another in mem)
 
 ## Time Complexity 
-- Read -> o(1)
-- Insert -> o(n)
-- Delete -> o(n)
+- Read -> O(1)
+- Insert -> O(n)
+- Delete -> O(n)
 
 # Linked List
 () -> () -> () -> 
@@ -22,7 +22,7 @@ date: 2024-11-29T17:39
 * Not index based 
 
 ## Time Complexity 
-* Read -> o(n)
-* Insert -> o(1)
-* Delete -< o(1)
+* Read -> O(n)
+* Insert -> O(1)
+* Delete -< O(1)
 
