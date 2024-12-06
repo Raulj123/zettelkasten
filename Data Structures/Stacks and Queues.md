@@ -4,10 +4,16 @@ tags:
   - 🏷️stack-queues
 date: 2024-11-30T13:10
 ---
-
+What are they good for? 
+* Tree data structure
+* [[Depth First Search]]
+* [[Breath First Search]]
 # Stacks
 Last in, first out (LIFO)
-Can be done with array 
+* Implemented either through an array or linked list(all it is a specials list) 
+* What identifies the data structure as a stack is not the implementation but the **interface
+* user is only allowed to pop or push items
+* 
 ``` python
 stack = []
 stack.append('hi)

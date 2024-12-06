@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "7b700c63439799ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b25400db39c0b1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbc567e178cc9928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Stacks and Queues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stacks and Queues"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85d38aa73d191ce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "49aad5692bcbfaa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1629ee32f1ae9401",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c5896f45036d0051",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34e852b5e2795b27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bdeff81b5824f9dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "87008f3930e2bad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5645e0858f0ef3e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structures/Pointer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pointer"
+            }
+          },
+          {
+            "id": "d852015e5b021d1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Structures/Pointer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pointer"
+            }
+          },
+          {
+            "id": "fd118ee8174446cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "313bdc1dda6eabc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Structures/Pointer.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pointer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dbc567e178cc9928",
+  "lastOpenFiles": [
+    "Data Structures/Depth First Search.md",
+    "Data Structures/Stacks and Queues.md",
+    "Data Structures/Pointer.md",
+    "Data Structures/Trees.md",
+    "Data Structures/HashMap.md",
+    "Data Structures/Data Structures.md",
+    "Data Structures/Arrays & Linked List.md",
+    "Data Structures/Graphs.md",
+    "Data Structures/Templates/Data Structure Template.md"
+  ]
+}
