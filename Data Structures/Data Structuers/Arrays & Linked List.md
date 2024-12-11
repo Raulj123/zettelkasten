@@ -5,6 +5,11 @@ tags:
 date: 2024-11-29T17:39
 ---
 # Array
+### Array vs List?
+* Array has one type of values (int for example). 
+* List you can put different types (int, string, etc.)
+* list can be dynamically resized, whereas a classical array is static.
+* In python the array module can be dynamic  but hold only 1 data type
 [1,3,4,5] or [9, "hi", false]
 * Ordered collection of data
 * Find an element based on index
