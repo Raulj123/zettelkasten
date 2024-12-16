@@ -7,6 +7,7 @@
 2) [OSI Model](#OSI Model)
 3) [[TCP, IP Model]]
 4) [[Domain Name System(DNS)]]
+5) [[Load Balancing]]
 
 # IP
 * An IP address is a unique address that identifies a device on the internet or a local network (Internet Protocol) 
