@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Stacks and Queues.md",
+                "file": "Data Structures/System Design/Load Balancing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stacks and Queues"
+              "title": "Load Balancing"
+            }
+          },
+          {
+            "id": "2f3487732510ca68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/System Design/Clustering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clustering"
+            }
+          },
+          {
+            "id": "e4da93764dae1b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/System Design/Caching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caching"
+            }
+          },
+          {
+            "id": "a715512fd460945f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/System Design/Content Delivery Network(CDN).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Content Delivery Network(CDN)"
+            }
+          },
+          {
+            "id": "95914fa62d8ebefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/System Design/What is System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is System Design"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,16 +219,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbc567e178cc9928",
+  "active": "95914fa62d8ebefc",
   "lastOpenFiles": [
-    "Data Structures/Depth First Search.md",
-    "Data Structures/Stacks and Queues.md",
-    "Data Structures/Pointer.md",
-    "Data Structures/Trees.md",
+    "Data Structures/System Design/Proxy.md",
+    "Data Structures/System Design/Content Delivery Network(CDN).md",
+    "Data Structures/System Design/Media/cdn.webp",
+    "Data Structures/System Design/What is System Design.md",
+    "Data Structures/System Design/TCP, IP Model.md",
+    "Data Structures/System Design/Caching.md",
+    "Data Structures/System Design/Clustering.md",
+    "Data Structures/System Design/Load Balancing.md",
     "Data Structures/HashMap.md",
-    "Data Structures/Data Structures.md",
-    "Data Structures/Arrays & Linked List.md",
     "Data Structures/Graphs.md",
-    "Data Structures/Templates/Data Structure Template.md"
+    "Data Structures/Depth First Search.md",
+    "Data Structures/Data Structures.md",
+    "Data Structures/Templates/Data Structure Template.md",
+    "Data Structures/Arrays & Linked List.md",
+    "Data Structures/Trees.md",
+    "Data Structures/Stacks and Queues.md",
+    "Data Structures/Pointer.md"
   ]
 }

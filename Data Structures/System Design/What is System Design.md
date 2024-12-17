@@ -8,6 +8,10 @@
 3) [[TCP, IP Model]]
 4) [[Domain Name System(DNS)]]
 5) [[Load Balancing]]
+6) [[Clustering]]
+7) [[Caching]]
+8) [[Content Delivery Network(CDN)]]
+9) [[Proxy]]
 
 # IP
 * An IP address is a unique address that identifies a device on the internet or a local network (Internet Protocol) 
