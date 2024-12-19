@@ -12,6 +12,10 @@
 7) [[Caching]]
 8) [[Content Delivery Network(CDN)]]
 9) [[Proxy]]
+10) [[Availability]]
+11) [[Scalability]]
+12) [[Storage]]
+
 
 # IP
 * An IP address is a unique address that identifies a device on the internet or a local network (Internet Protocol) 
