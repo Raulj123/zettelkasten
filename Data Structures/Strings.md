@@ -13,4 +13,3 @@
 * Concatenate string += "add"
 * Find string. Find("r") gets the index of the first 'r'
 * Subset use brackets in python 
-* 

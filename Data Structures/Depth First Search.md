@@ -4,6 +4,8 @@ tags:
   - 🏷️DFS
 date: 2024-11-30T13:34
 ---
+==good when you just need to find a valid path or all valid paths==
+For traversing a [[Trees]] or [[Graphs]] structure, starts at root and explores as far as possible along each branch before backtracking
 Between which node to explore must be clear on how to make these choices on problem
 
 ## Recursive 
@@ -36,6 +38,7 @@ def dfs(G, node):
 
 # Time Complexity 
 Both run un O(V + E)
+V number of vertices and E number of edges 
 
 # Preorder
 Out the vertex as a part of the order as soon as we encounter a new vertex 

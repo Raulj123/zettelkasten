@@ -3,6 +3,7 @@
 ## why should I care
 * System design helps us define a solution that meets the business requirements.
 # Table of Contents 
+### Chapter 1
 1) [IP](#IP)
 2) [OSI Model](#OSI Model)
 3) [[TCP, IP Model]]
@@ -15,7 +16,11 @@
 10) [[Availability]]
 11) [[Scalability]]
 12) [[Storage]]
-
+### Chapter 2
+1) [[Databases and DBMS]]
+2) [[SQL]]
+3) [[NoSQL]]
+4) [[SQL vs NoSQL Database]]
 
 # IP
 * An IP address is a unique address that identifies a device on the internet or a local network (Internet Protocol) 

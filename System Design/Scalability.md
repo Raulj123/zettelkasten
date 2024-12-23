@@ -18,7 +18,7 @@ Vertical scaling (also known as scaling up) expands a system's scalability by ad
 Horizontal scaling (also known as scaling out) expands a system's scale by adding more machines. It improves the performance of the server by adding more instances to the existing pool of servers, ==allowing the load to be distributed more evenly.==
 
 ### Advantages 
-- - ncreased redundancy
+- Increased redundancy
 - Better fault tolerance
 - Flexible and efficient
 - Easier to upgrade
