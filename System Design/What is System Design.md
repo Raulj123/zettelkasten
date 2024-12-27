@@ -21,6 +21,9 @@
 2) [[SQL]]
 3) [[NoSQL]]
 4) [[SQL vs NoSQL Database]]
+5) [[Database replication]]
+6) [[Indexes]]
+7) [[Normalization and Denormalization]]
 
 # IP
 * An IP address is a unique address that identifies a device on the internet or a local network (Internet Protocol) 
