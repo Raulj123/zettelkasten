@@ -22,6 +22,7 @@ date: 2024-11-29T17:39
 
 # Linked List
 () -> () -> () -> 
+* Singly linked lists contain nodes which have a 'value' field as well as 'next' field, which points to the next node in line of nodes.
 * Each element in list has a [[Pointer]] which has next address of next element 
 * Do not have to be stored next to each other 
 * Not index based 
@@ -31,3 +32,4 @@ date: 2024-11-29T17:39
 * Insert -> O(1)
 * Delete -< O(1)
 
+* In a 'doubly linked list', each node contains, besides the next-node link, a second link field pointing to the 'previous' node in the sequence. The two links may be called 'forward('s') and 'backwards', or 'next' and 'prev'('previous').

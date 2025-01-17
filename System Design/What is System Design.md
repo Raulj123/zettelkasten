@@ -24,6 +24,33 @@
 5) [[Database replication]]
 6) [[Indexes]]
 7) [[Normalization and Denormalization]]
+8) [[ACID and BASE consistency models]]
+9) [[CAP Theorem]]
+10) [[Transactions]]
+11) [[Distributed Transactions]]
+12) [[Sharding]]
+13) [[Consistent Hashing]]
+### Chapter 3
+1) [[N-tier architecture]] 
+2) [[Message Broker]]
+3) [[Message Queue]]
+4) [[Publish-Subscribe]] 
+5) [[Enterprise Service Bus (ESB)]]
+6) [[Monoliths and Microservices]]
+7) [[Event-Driven Architecture (EDA)]]
+8) [[Event Sourcing]]
+9) [[Command and Query Responsibility Segregation (CQRS)]]
+10) [[API Gateway]]
+11) [[GraphQL]], [[gRPC,tRPC]], [[RESTful API]]
+12) [[Long polling, webSockets, Server-Sent Events(SSE)]]
+### Chapter 4
+1) [[Geohasing]]
+2) [[Circuit Breaker]] / Rate Limiting 
+1) [[Service Discover]]
+2) [[Virtual Machines and Containers]]
+3) [[OAuth 2.0 and OpenID Connect (OIDC)]]
+4) [[Single Sign-On (SSO)]]
+
 
 # IP
 * An IP address is a unique address that identifies a device on the internet or a local network (Internet Protocol) 

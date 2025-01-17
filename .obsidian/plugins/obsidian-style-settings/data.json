@@ -1,3 +1,6 @@
 {
-  "minimal-style@@h1-l": true
+  "minimal-style@@h1-l": true,
+  "minimal-style@@h1-color@@dark": "#0BFFEA",
+  "minimal-style@@h1-weight": 500,
+  "minimal-style@@h2-color@@dark": "#326DDD"
 }

@@ -15,6 +15,6 @@ A list of data structure done by me hehe
 	* [[Breath First Search]]
 # Patterns
 * [[Two Pointers]]
-* 
+* [[Sliding Window]]
 
 
