@@ -37,3 +37,6 @@ while l <= r:
 		return nums[m]
 ```
 
+## Types of Binary Trees
+* A **complete** binary tree is a binary tree in which every level, _except possibly the last_, is completely filled, and all nodes in the last level are as far left as possible.
+* Example![[Pasted image 20250129103902.png]]

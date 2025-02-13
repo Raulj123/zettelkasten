@@ -3,6 +3,7 @@ A list of data structure done by me hehe
 * [[Stacks and Queues]]
 * [[HashMap]]
 * [[Sets]]
+* [[Heap]]
 # Data Types
 [[Data Types Intro]]
 * [[Strings]]
