@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker 🐳.md",
+                "file": "Data Structures/Graph and Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker 🐳"
+              "title": "Graph and Matrices"
             }
           }
         ],
@@ -180,22 +180,22 @@
   },
   "active": "c2de0f18fc849560",
   "lastOpenFiles": [
+    "Data Structures/Leetcode Patterns 💯🙏.md",
+    "Data Structures/Graphs.md",
+    "Data Structures/Breath First Search.md",
+    "Data Structures/Graph and Matrices.md",
+    "Data Structures/Stacks and Queues.md",
+    "Data Structures/Depth First Search.md",
+    "AWS.md",
+    "Go.md",
+    "Docker 🐳.md",
     "Data Structures/media/adjlist 1.png",
     "Data Structures/media/grpah.png",
-    "AWS.md",
     "Data Structures/media",
-    "Docker 🐳.md",
-    "Go.md",
     "Data Structures/Binary Tree Traversal.md",
     "Data Structures/Binary Tree Traversal.md",
     "Data Structures/media/adjMat.png",
-    "Data Structures/Graph and Matrices.md",
-    "Data Structures/Depth First Search.md",
-    "Data Structures/Stacks and Queues.md",
-    "Data Structures/Breath First Search.md",
-    "Data Structures/Graphs.md",
     "Data Structures/media/adjlist.png",
-    "Data Structures/Leetcode Patterns 💯🙏.md",
     "Data Structures/Top K Elements.md",
     "Data Structures/Data Structures.md",
     "Data Structures/Trees(Binary Tree).md",

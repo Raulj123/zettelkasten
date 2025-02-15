@@ -16,3 +16,10 @@ def bfs(G, root):
 				if not marked|v|:
 					q.append(v)
 ```
+
+``` python
+from collections import deque
+q = deque()
+q.append("hi)
+q.popleft()
+```
