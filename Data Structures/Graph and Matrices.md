@@ -18,4 +18,9 @@ Review: [[Graphs]]
 | Medium     | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | so we  know each border can reach each ocean so call dfs on left and right border with different sets. and call recursive if its a valid cell and new, return union of both sets                                             |
 | Medium     | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                     | simple bfs                                                                                                                                                                                                                   |
 | Medium     | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                   | simple bfs again forgot the only call if its a island and count is as one already instead of setting as 0.                                                                                                                   |
+| Medium     | [133. Clone Graph](https://leetcode.com/problems/clone-graph/)                            | Shi hard, bfs and when u pop update nei with its cloned neigh, gl                                                                                                                                                            |
 |            |                                                                                           |                                                                                                                                                                                                                              |
+
+
+### Any questions asks you to clone?
+think map, with key being old val and val being new node/val

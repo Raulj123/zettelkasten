@@ -7,3 +7,7 @@ func main(){
 	fmt.Println("sup bitches")     3) main entry point
 }
 ```
+
+1. [[Var, data types, types]]
+2. [[string format]]
+3. [[Flow Control 🔄]]
