@@ -11,3 +11,4 @@ func main(){
 1. [[Var, data types, types]]
 2. [[string format]]
 3. [[Flow Control 🔄]]
+4. [[Functions]]
