@@ -42,7 +42,15 @@ fastapi[standard]==0.113.0
 pydantic==2.8.0
 ```
 
-We will stick with poetry for now
+### Poetry
 1) https://python-poetry.org/docs/#installation
 2) https://python-poetry.org/docs/basic-usage/
 3) I think we can either use our own venv or use poetry , poetry will respect any existing venv but I need to activate it before running any poetry commands that expect to manipulate an environment 
+
+### UV
+https://docs.astral.sh/uv/
+1) Install 
+2) uv env to create venv 
+3) https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
+	1) to read more about the pyproject.py 
+	2) The [build-system] table should always be present, regardless of which build backend you use ([build-system] defines the build tool you use). Although we not publishing I THINK this means we gotta have one 
